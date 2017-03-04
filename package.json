@@ -1,0 +1,24 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khyati-k/timestamp-microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khyati-k/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/khyati-k/timestamp-microservice#readme",
+  "dependencies": {
+    "chrono-node": "^1.2.5",
+    "express": "^4.14.1",
+    "moment": "^2.17.1"
+  }
+}
